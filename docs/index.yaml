@@ -9,6 +9,6 @@ entries:
     name: member-app
     type: application
     urls:
-    - https://yy9976com.github.io/my-helm-chart/member-app-0.1.0.tgz
+    - https://parkyhun.github.io/my-helm-chart/member-app-0.1.0.tgz
     version: 0.1.0
 generated: "2026-06-29T11:07:29.185801173+09:00"

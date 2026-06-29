@@ -36,4 +36,10 @@ my-repo/member-app      0.1.0           1.0.0.          fastapi member applicati
 # github pages 에서 내려 받은 helm chart 를 배포해보기
 helm install member-release my-repo/member-app -n helm01 --create-namespace 
 
+# 배포된 네임스페이스 목록 확인
+helm ls -n helm01
+# 삭제하기
+helm uninstall member-release -n helm01
+kubectl delete ns helm01
+
 ```
