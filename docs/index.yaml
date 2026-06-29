@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  member-app:
+  - apiVersion: v2
+    appVersion: 1.0.0.
+    created: "2026-06-29T11:07:29.186165962+09:00"
+    description: fastapi member application
+    digest: 9d70583b0fd1e49575401c8f8fccf66d8991f4f129ed4cbb1fc5c92ddc2464d1
+    name: member-app
+    type: application
+    urls:
+    - https://yy9976com.github.io/my-helm-chart/member-app-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-06-29T11:07:29.185801173+09:00"
