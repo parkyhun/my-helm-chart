@@ -3,22 +3,22 @@ entries:
   member-app:
   - apiVersion: v2
     appVersion: 1.0.1.
-    created: "2026-06-29T11:40:22.169311064+09:00"
+    created: "2026-06-29T11:42:52.503343966+09:00"
     description: fastapi member application
-    digest: b17dfb3929ec51f5666196d3358d7da6008d85398a8442989a5206c84a0a332c
+    digest: fff8acba488cf833300e6ae8040047c39ad332b66a883e4d304163f1d15f4e53
     name: member-app
     type: application
     urls:
-    - https://yy9976com.github.io/my-helm-chart/member-app-0.1.1.tgz
+    - https://parkyhun.github.io/my-helm-chart/member-app-0.1.1.tgz
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.0.0.
-    created: "2026-06-29T11:40:22.169113275+09:00"
+    created: "2026-06-29T11:42:52.503162092+09:00"
     description: fastapi member application
     digest: 9d70583b0fd1e49575401c8f8fccf66d8991f4f129ed4cbb1fc5c92ddc2464d1
     name: member-app
     type: application
     urls:
-    - https://yy9976com.github.io/my-helm-chart/member-app-0.1.0.tgz
+    - https://parkyhun.github.io/my-helm-chart/member-app-0.1.0.tgz
     version: 0.1.0
-generated: "2026-06-29T11:40:22.168840433+09:00"
+generated: "2026-06-29T11:42:52.5027996+09:00"
